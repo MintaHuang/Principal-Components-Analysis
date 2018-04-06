@@ -1,6 +1,6 @@
 ---
 title: "5241 HW1"
-author: "Mengjia Huang,UNI:mh3781"
+author: "MengjiaH"
 date: "2018/2/4"
 output: html_document
 ---
